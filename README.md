@@ -1,3 +1,3 @@
-MERN test
+MERN framework
 
 MongoDB in docker
